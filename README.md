@@ -1,2 +1,2 @@
-# Announcement-Clicker-for-FSSH
-A script that increases Click-throughs.
+# Web_Script
+Basically just some useless script

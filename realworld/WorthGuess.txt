@@ -1,5 +1,6 @@
 admin
 admin123
+administrator
 test
 test123
 user

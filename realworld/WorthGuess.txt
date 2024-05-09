@@ -1,0 +1,16 @@
+admin
+admin123
+test
+test123
+user
+user123
+a12345
+A12345
+1234
+12345678
+123456789
+1234567890
+1qaz@WSX
+!QAZ2wsx
+1qaz@WSX3edc
+!QAZ2wsx#EDC
